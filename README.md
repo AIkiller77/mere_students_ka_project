@@ -1,3 +1,4 @@
+# note: This garbage project is incompelete, please you can help me, by giving sending me suggestion at my email: padhailikhai839@gmail.com
 # TeleMedChain
 
 A next-generation telemedicine platform that combines traditional healthcare with AI-powered diagnostics and Web3.0/blockchain technology.
